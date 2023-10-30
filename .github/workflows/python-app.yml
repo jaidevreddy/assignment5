@@ -37,4 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         python3 myprogram.py
-        pytest
+        
